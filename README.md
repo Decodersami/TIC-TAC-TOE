@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-A simple game TicTacToe
+Play with X and O
